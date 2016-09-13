@@ -5,12 +5,6 @@
       <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="VagrantGroup" is_group="true" action_type="-1" position="22">
-      <path value="root" />
-      <path value="Main menu" />
-      <path value="Tools" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="VersionControlsGroup" is_group="true" action_type="-1" position="20">
       <path value="root" />
       <path value="Navigation Bar" />
